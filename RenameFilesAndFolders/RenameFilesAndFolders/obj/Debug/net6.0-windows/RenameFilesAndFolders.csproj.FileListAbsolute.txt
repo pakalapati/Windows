@@ -1,0 +1,17 @@
+C:\Projects\Windows\RenameFilesAndFolders\RenameFilesAndFolders\bin\Debug\net6.0-windows\RenameFilesAndFolders.exe
+C:\Projects\Windows\RenameFilesAndFolders\RenameFilesAndFolders\bin\Debug\net6.0-windows\RenameFilesAndFolders.deps.json
+C:\Projects\Windows\RenameFilesAndFolders\RenameFilesAndFolders\bin\Debug\net6.0-windows\RenameFilesAndFolders.runtimeconfig.json
+C:\Projects\Windows\RenameFilesAndFolders\RenameFilesAndFolders\bin\Debug\net6.0-windows\RenameFilesAndFolders.dll
+C:\Projects\Windows\RenameFilesAndFolders\RenameFilesAndFolders\bin\Debug\net6.0-windows\RenameFilesAndFolders.pdb
+C:\Projects\Windows\RenameFilesAndFolders\RenameFilesAndFolders\obj\Debug\net6.0-windows\RenameFilesAndFolders.csproj.AssemblyReference.cache
+C:\Projects\Windows\RenameFilesAndFolders\RenameFilesAndFolders\obj\Debug\net6.0-windows\RenameFilesAndFolders.RenameFiles.resources
+C:\Projects\Windows\RenameFilesAndFolders\RenameFilesAndFolders\obj\Debug\net6.0-windows\RenameFilesAndFolders.csproj.GenerateResource.cache
+C:\Projects\Windows\RenameFilesAndFolders\RenameFilesAndFolders\obj\Debug\net6.0-windows\RenameFilesAndFolders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Windows\RenameFilesAndFolders\RenameFilesAndFolders\obj\Debug\net6.0-windows\RenameFilesAndFolders.AssemblyInfoInputs.cache
+C:\Projects\Windows\RenameFilesAndFolders\RenameFilesAndFolders\obj\Debug\net6.0-windows\RenameFilesAndFolders.AssemblyInfo.cs
+C:\Projects\Windows\RenameFilesAndFolders\RenameFilesAndFolders\obj\Debug\net6.0-windows\RenameFilesAndFolders.csproj.CoreCompileInputs.cache
+C:\Projects\Windows\RenameFilesAndFolders\RenameFilesAndFolders\obj\Debug\net6.0-windows\RenameFilesAndFolders.dll
+C:\Projects\Windows\RenameFilesAndFolders\RenameFilesAndFolders\obj\Debug\net6.0-windows\refint\RenameFilesAndFolders.dll
+C:\Projects\Windows\RenameFilesAndFolders\RenameFilesAndFolders\obj\Debug\net6.0-windows\RenameFilesAndFolders.pdb
+C:\Projects\Windows\RenameFilesAndFolders\RenameFilesAndFolders\obj\Debug\net6.0-windows\RenameFilesAndFolders.genruntimeconfig.cache
+C:\Projects\Windows\RenameFilesAndFolders\RenameFilesAndFolders\obj\Debug\net6.0-windows\ref\RenameFilesAndFolders.dll
